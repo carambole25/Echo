@@ -16,3 +16,7 @@ install node.js
 install python
 
 `npm install node_characterai`
+
+## how it's work ?
+
+![logo du projet Echo](https://github.com/MrCarambole/Echo/blob/main/logomini.jpg)
