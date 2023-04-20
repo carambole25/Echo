@@ -6,7 +6,7 @@ Project Echo aims to enable voice conversation with artificial intelligence
 
 <br>
 
-![logo du projet Echo](https://github.com/MrCarambole/Echo/blob/main/logomini.jpg)
+![logo du projet Echo](https://github.com/MrCarambole/Echo/blob/main/images/logomini.jpg)
 
 ## How to install it ?
 *(see Requirement file)*
@@ -19,4 +19,4 @@ install python
 
 ## how it's work ?
 
-![Architecture](https://github.com/MrCarambole/Echo/blob/main/architecturemini.PNG)
+![Architecture](https://github.com/MrCarambole/Echo/blob/main/images/architecturemini.PNG)
