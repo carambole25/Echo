@@ -20,3 +20,11 @@ install python
 ## how it's work ?
 
 ![Architecture](https://github.com/MrCarambole/Echo/blob/main/images/architecturemini.PNG)
+
+### Creator
+MrCarambole
+t-[]-Pc2
+Rigel
+
+### Contact
+carambole258@gmail.com
