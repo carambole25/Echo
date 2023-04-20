@@ -1,0 +1,2 @@
+https://nodejs.org/en
+npm install node_characterai
