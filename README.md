@@ -19,4 +19,4 @@ install python
 
 ## how it's work ?
 
-![logo du projet Echo](https://github.com/MrCarambole/Echo/blob/main/logomini.jpg)
+![Architecture](https://github.com/MrCarambole/Echo/blob/main/architecturemini.PNG)
