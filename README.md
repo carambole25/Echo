@@ -24,11 +24,11 @@ install python
 ##
 
 ### Creator
-MrCarambole
+> MrCarambole: api management
 
-t-[]-Pc2
+> t-[]-Pc2: speech to text
 
-Rigel
+> Rigel: text to speech
 
 ### Contact
 carambole258@gmail.com
