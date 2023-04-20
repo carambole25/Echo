@@ -16,5 +16,4 @@ install node.js
 
 install python
 
-
-
+`* npm install characterIa`
