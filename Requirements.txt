@@ -1,6 +1,6 @@
-**python**
+''python''
 win32com.client
 speech_recognition
 
-**nodejs**
+''nodejs''
 node_characterai
