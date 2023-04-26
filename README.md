@@ -1,14 +1,14 @@
 # Projet Echo
 
-## What is this ?
+## Qu'est ce que c'est ?
 
-Project Echo aims to enable voice conversation with artificial intelligence
+Le projet Echo vise à permettre la conversation vocale une intelligence artificielle telle que chatGPT ou des alternatives.
 
 <br>
 
 ![logo du projet Echo](https://github.com/MrCarambole/Echo/blob/main/images/logomini.jpg)
 
-## How to install it ?
+## Comment installer
 *(see Requirement file)*
 
 install node.js
@@ -17,18 +17,6 @@ install python
 
 `npm install node_characterai`
 
-## how it's work ?
+## Comment ça marche ?
 
 ![Architecture](https://github.com/MrCarambole/Echo/blob/main/images/architecturemini.PNG)
-
-##
-
-### Creator
-> MrCarambole: api management
-
-> t-[]-Pc2: speech to text
-
-> Rigel: text to speech
-
-### Contact
-carambole258@gmail.com
