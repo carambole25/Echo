@@ -1,0 +1,3 @@
+- Rendre l'app autonome
+- Trouver une altérnative a google pour la reconnaissance vocal
+- Trouver une voix plus sympa
