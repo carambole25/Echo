@@ -1,3 +1,6 @@
-python
-nodejs
-npm install node_characterai
+**python**
+win32com.client
+speech_recognition
+
+**nodejs**
+node_characterai
