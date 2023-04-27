@@ -21,4 +21,4 @@ text = ecouter()
 ecrire_fichier_transversale_1(text=)
 
 import os
-os.system("characterIa_api")
+os.system("characterIa_api.py")
