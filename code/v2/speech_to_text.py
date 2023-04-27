@@ -8,11 +8,11 @@ def ecrire_fichier_transversale_1(text):
 
 def ecouter():
     try:
-        with sr.Microphone() as source: 
+        with sr.Microphone() as source: #utilisation du microphone
             print("parlez maintenant")
-            voix = listener.listen(source)
-            text = listener.recognize_google(voix, language='fr-FR') 
-            text = str(text.lower()).replace("\n", "")
+            voix = listener.listen(source) #générer une voix
+            text = listener.recognize_google(voix, language='fr-FR') #assurer la reconnaissance avec Google en français
+            text = str(text.lower()).replace("\n", "") 
     except:
         pass
     return text
