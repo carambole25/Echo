@@ -25,8 +25,8 @@ def traitement(reponse):
     return msg
 
 def speech(msg):
-    speaker = win32com.client.Dispatch("SAPI.SpVoice")
-    speaker.Speak(msg)
+    speaker = win32com.client.Dispatch("SAPI.SpVoice") #appel de la méthode 
+    speaker.Speak(msg) #sortie audio
 
 rep = recuperation_reponse()
 msg = traitement(rep)
