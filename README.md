@@ -9,7 +9,6 @@ Le projet Echo vise à permettre la conversation vocale une intelligence artific
 ![logo du projet Echo](https://github.com/MrCarambole/Echo/blob/main/images/logomini.jpg)
 
 ## Comment installer
-*(see Requirement file)*
 
 install node.js
 
