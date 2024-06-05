@@ -10,9 +10,7 @@ Le projet Echo vise à permettre la conversation vocale une intelligence artific
 
 ## Comment installer
 
-install node.js
-
-install python
+installer node.js et python
 
 `npm install node_characterai`
 
